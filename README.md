@@ -72,7 +72,7 @@ It is designed to strengthen problem-solving skills and provide hands-on experie
 
 ## 👨‍💻 Author
 
-**Rehan Nadaf**
+**Kaif Shaikh**
 
 ---
 
